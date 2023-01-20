@@ -191,7 +191,7 @@
     font-family: Roboto, sans-serif;
     font-size: 1rem;
     min-height: 90px;
-    height: 400px;
+    height: 800px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
